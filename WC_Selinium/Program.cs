@@ -10,6 +10,8 @@ namespace WC_Selinium
     {
         static void Main(string[] args)
         {
+            var scraper = new WebScraper();
+            var log = scraper.GetDados("https://proxyservers.pro/proxy/list/order/updated/order_dir/desc%22", "/html/body/div[1]/div/div[2]/div/div/div/div[1]/div/table/tbody/tr[position()>0]");
         }
     }
 }
