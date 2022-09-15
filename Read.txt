@@ -1,0 +1,6 @@
+﻿voce tera que ter os seguintes diretorios criados na sua maqui 
+
+d:\\imagens\print
+
+
+o resto esta jogando direto no C: entao o robo precisa esta rodando como adiministrador
